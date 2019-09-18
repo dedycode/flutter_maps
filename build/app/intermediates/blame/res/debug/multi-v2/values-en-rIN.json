@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dedycode/dedycode/programming/flutter/flutter_maps/flutter_maps/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/home/dedycode/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/9c97e201fec651b7d079e3363010ffd1/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
